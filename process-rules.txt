@@ -4,3 +4,4 @@ PROCESS-NAME,browser.exe
 PROCESS-NAME,firefox.exe
 PROCESS-NAME,opera.exe
 PROCESS-NAME,chrome.exe
+PROCESS-NAME,brave.exe
