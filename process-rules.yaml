@@ -1,7 +1,6 @@
-rules:
-  - PROCESS-NAME,Spotify.exe,BlackSun VPN
-  - PROCESS-NAME,Discord.exe,BlackSun VPN
-  - PROCESS-NAME,browser.exe,BlackSun VPN
-  - PROCESS-NAME,firefox.exe,BlackSun VPN
-  - PROCESS-NAME,opera.exe,BlackSun VPN
-  - PROCESS-NAME,chrome.exe,BlackSun VPN
+PROCESS-NAME,Spotify.exe
+PROCESS-NAME,Discord.exe
+PROCESS-NAME,browser.exe
+PROCESS-NAME,firefox.exe
+PROCESS-NAME,opera.exe
+PROCESS-NAME,chrome.exe
