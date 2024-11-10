@@ -9,4 +9,4 @@ GEOSITE,FACEBOOK
 GEOSITE,SOUNDCLOUD
 GEOSITE,META
 DOMAIN,rutracker.net
-DOMAIN,rutracker.cc
+DOMAIN,static.rutracker.cc
