@@ -1,7 +1,0 @@
-PROCESS-NAME,Spotify.exe
-PROCESS-NAME,Discord.exe
-PROCESS-NAME,browser.exe
-PROCESS-NAME,firefox.exe
-PROCESS-NAME,opera.exe
-PROCESS-NAME,chrome.exe
-PROCESS-NAME,brave.exe
